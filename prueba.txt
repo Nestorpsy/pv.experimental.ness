@@ -1,3 +1,2 @@
-prueba de subida por svn tortoise svn Nes
-
-Ya me bajó todo
+prueba de subida por svn tortoise svn Nes 
+test...ok
