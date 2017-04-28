@@ -189,11 +189,13 @@ public class GUI_Principal extends javax.swing.JFrame {
         jPanelPrincipal.removeAll();
         jPanelPrincipal.add(login);
         jPanelPrincipal.revalidate();
-        jPanelPrincipal.repaint();
+        jPanelPrincipal.repaint(); 
     }//GEN-LAST:event_jInicioSeActionPerformed
 
     private void jAcercaDeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jAcercaDeActionPerformed
         // TODO add your handling code here:
+        AcercaDe acerca = new AcercaDe();
+        acerca.setVisible(true);
         BorrarPanel();
     }//GEN-LAST:event_jAcercaDeActionPerformed
 
